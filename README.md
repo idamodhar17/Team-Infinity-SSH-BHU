@@ -20,7 +20,7 @@ This repository contains a Flask-based API that serves a machine learning model 
 ### Prediction Example
 Here’s a successful prediction response for a news article:
 ![Prediction Fake](outputs/fake_output.png)
-![Prediction Success](screenshots/real_output.png)
+![Prediction Success](outputs/real_output.png)
 
 ---
 
@@ -39,7 +39,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection-api.git
+   git clone https://github.com/idamodhar17/fake-news-detection-api.git
    cd fake-news-detection-api
    ```
 
